@@ -117,9 +117,15 @@ const verifyOTP = async (req, res) => {
     }
 };
 
+
+//check here
 // Export all functions using CommonJS
 module.exports = {
     signup,
     login,
     verifyOTP
 };
+
+
+
+
